@@ -1,0 +1,2 @@
+# simpleforgotpasswordtemplatenodejs
+A quick forgotpasswordtemplate for Javascript
